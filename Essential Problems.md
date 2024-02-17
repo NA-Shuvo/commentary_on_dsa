@@ -3,8 +3,8 @@ This file contains some essential problems for individuals who want to foster mi
 However, I must encourage to solve problem in online judges. Practicing in online judges helps with providing more sound problems as well as it confirms the quality of solutions.  
 
 ## Quick Jump
-*  [Basic I/O](basic-io)
-*  [Loops](loops)
+*  [Basic I/O](#basic-io)
+*  [Loops](#loops)
 
 ## Basic IO
 *  Print your name using the most basic output function of your favorite language.
