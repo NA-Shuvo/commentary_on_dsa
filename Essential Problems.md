@@ -21,4 +21,17 @@ However, I must encourage to solve problem in online judges. Practicing in onlin
 *  Find the maximum and minimum number in a given array.
 *  Print multiplication table for a given integer eg. 17.
 *  Print the factorial of a given number, eg. 8!
-*  Find the sum of the series $1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!}$ up to given number of terms for a given value of x.
+*  Find the sum of the series $1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \cdots $ up to given number of terms for a given value of x.
+*  Find the value of sin(x) for given x.
+*  Find the value of cos(x) for give x.
+*  Given an integer $n$, find the number of digits.
+*  Print the sum of harmonic series upto given n terms.
+*  Print the sum of the series $9 + 99 + 999+ \cdots$ upto given n terms.
+*  Check whether a given integer is PERFECT or NOT.
+*  Determine whether a given number is PRIME or NOT.
+*  List all the prime numbers within a given range of numbers.
+*  Display the first n terms of Fibonacci series.
+*  Check if a number/string is PALINDROME or NOT.
+*  Represent a given decimal number into its binary form.
+*  Represent an octal number into its decimal form.
+*  
