@@ -19,3 +19,6 @@ However, I must encourage to solve problem in online judges. Practicing in onlin
 *  Print your name ten(10) times, each of them in a different line.
 *  Print all numbers in $[1\ 100]$. First print them in ascending order and then print them in discending order.
 *  Find the maximum and minimum number in a given array.
+*  Print multiplication table for a given integer eg. 17.
+*  Print the factorial of a given number, eg. 8!
+*  Find the sum of the series $1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!}$ up to given number of terms for a given value of x.
