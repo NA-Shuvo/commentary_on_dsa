@@ -5,8 +5,9 @@ However, I must encourage to solve problem in online judges. Practicing in onlin
 ## Quick Jump
 *  [Basic I/O](#basic-io)
 *  [Loops](#loops)
-  *  [Single Loop Integer Problems](#single-loop-integer-problems)
-  *  [Single Loop Real Number Problems](#single-loop-real-number-problems)
+   *  [Single Loop Integer Problems](#single-loop-integer-problems)
+   *  [Single Loop Real Number Problems](#single-loop-real-number-problems)
+*
 
 ## Basic IO
 *  Print your name using the most basic output function of your favorite language.
@@ -30,12 +31,12 @@ However, I must encourage to solve problem in online judges. Practicing in onlin
 *  List all the prime numbers within a given range of numbers.(Array + Brute Force || Sieve of Eratosthenes)
 *  Display the first n terms of Fibonacci series.
 *  Conversion of between number systems (Array):
-  *  Decimal to binary
-  *  Binary to decimal
-  *  Decimal to octal
-  *  Octal to binary
+   *  Decimal to binary
+   *  Binary to decimal
+   *  Decimal to octal
+   *  Octal to binary
 ### Single Loop Real Number Problems
 *  Find the sum of the series $1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \cdots$ up to given number of terms for a given value of x.
 *  Find the value of sin(x) for given x.
 *  Find the value of cos(x) for give x.
-*  Print the sum of harmonic series upto given n terms.
+*  Given an integer $n$, print the sum of [Harmonic series](https://mathworld.wolfram.com/HarmonicSeries.html) $H_{n}$.
