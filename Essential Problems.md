@@ -5,6 +5,8 @@ However, I must encourage to solve problem in online judges. Practicing in onlin
 ## Quick Jump
 *  [Basic I/O](#basic-io)
 *  [Loops](#loops)
+  *  [Single Loop Integer Problems](#single-loop-integer-problems)
+  *  [Single Loop Real Number Problems](#single-loop-real-number-problems)
 
 ## Basic IO
 *  Print your name using the most basic output function of your favorite language.
@@ -16,22 +18,24 @@ However, I must encourage to solve problem in online judges. Practicing in onlin
 *  Take ten different types of data and print them as follows: first five data will be printed as they are separated by a comma(,) and next each of five data will be printed in a new line.
 
 ## Loops
-*  Print your name ten(10) times, each of them in a different line.
+### Single Loop Integer Problems
 *  Print all numbers in $[1\ 100]$. First print them in ascending order and then print them in discending order.
-*  Find the maximum and minimum number in a given array.
-*  Print multiplication table for a given integer eg. 17.
 *  Print the factorial of a given number, eg. 8!
-*  Find the sum of the series $1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \cdots $ up to given number of terms for a given value of x.
-*  Find the value of sin(x) for given x.
-*  Find the value of cos(x) for give x.
 *  Given an integer $n$, find the number of digits.
-*  Print the sum of harmonic series upto given n terms.
-*  Print the sum of the series $9 + 99 + 999+ \cdots$ upto given n terms.
+*  Find the maximum and minimum number in a given array. (Array)
+*  Given an integer $n$, print the digits in MSB to LSB order.(Array)
+*  Print the sum of the series $9 + 99 + 999+ \cdots$ upto given $n$ terms.
 *  Check whether a given integer is PERFECT or NOT.
 *  Determine whether a given number is PRIME or NOT.
-*  List all the prime numbers within a given range of numbers.
+*  List all the prime numbers within a given range of numbers.(Array + Brute Force || Sieve of Eratosthenes)
 *  Display the first n terms of Fibonacci series.
-*  Check if a number/string is PALINDROME or NOT.
-*  Represent a given decimal number into its binary form.
-*  Represent an octal number into its decimal form.
-*  
+*  Conversion of between number systems (Array):
+  *  Decimal to binary
+  *  Binary to decimal
+  *  Decimal to octal
+  *  Octal to binary
+### Single Loop Real Number Problems
+*  Find the sum of the series $1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \cdots$ up to given number of terms for a given value of x.
+*  Find the value of sin(x) for given x.
+*  Find the value of cos(x) for give x.
+*  Print the sum of harmonic series upto given n terms.
